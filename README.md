@@ -2,6 +2,7 @@
 </h1>
 
 #### 📬 Find me at
+[![Youtube Badge](http://img.shields.io/badge/-Youtube-red?style=flat-square&logo=youtube&link=https://www.youtube.com/c/salvadorvalverdedev)](https://www.youtube.com/c/salvadorvalverdedev) 
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/salvadordeveloper/)](https://github.com/Defcon27/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/salvador-valverde/)](https://www.linkedin.com/in/salvador-valverde/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.sentinal95@gmail.com)](mailto:salvadorvalverde0@gmail.com)
